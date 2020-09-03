@@ -1,21 +1,6 @@
 <h3 align="center">
   Aplicação para gerenciamento de carrinho de compras: Projeto REACT NATIVE
 </h3>
-
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ejcosta12/studying-react-native-project-marketplace">
-  <img alt="javaScript" src="https://img.shields.io/github/languages/top/ejcosta12/studying-react-native-project-marketplace">
-  <img alt="Size" src="https://img.shields.io/github/repo-size/ejcosta12/studying-react-native-project-marketplace">
-</p>
-
-## Sobre
-Versão mobile de aplicação para adicionar produtos em carrinho de compras com manipulação da quantidade de cada produto e atualização do preço total. Neste sistema foram abordados Async Storage e Context API.
-
-<p align="center">
-  <img  alt="screen-shot-01" src="https://res.cloudinary.com/dggw1b0tr/image/upload/c_scale,w_230/v1594123272/studying-react-native-project-marketplace/Listagem_wqofaa.png"></img>
-  <img alt="screen-shot-01" src="https://res.cloudinary.com/dggw1b0tr/image/upload/c_scale,w_230/v1594123270/studying-react-native-project-marketplace/Carrinho_syq4bl.png"></img>
-</p>
-
 ### Tecnologias
 
 - React Native
